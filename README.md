@@ -2,9 +2,13 @@
 
 Youyong Kong, Shuwen Gao, Yingying Yue, Zhenhua Hou, Huazhong Shu, Chunming Xie, Zhijun Zhang, Yonggui Yuan
 
-The paper is accepted to Human Brain Mapping.
+The paper is accepted to Human Brain Mapping. It can be found at [here](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25529).
 
-####  Environment
+###  Model Architecture
+
+![avatar](/Figure/Model.png)
+
+### Environment
 
 The code is developed and tested under the following environment
 
