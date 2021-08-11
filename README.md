@@ -2,7 +2,7 @@
 
 Youyong Kong, Shuwen Gao, Yingying Yue, Zhenhua Hou, Huazhong Shu, Chunming Xie, Zhijun Zhang, Yonggui Yuan
 
-The paper is accepted to Human Brain Mapping. It can be found at [here](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25529).
+The paper is accepted to Human Brain Mapping. It can be found [here](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25529).
 
 ###  Model Architecture
 
